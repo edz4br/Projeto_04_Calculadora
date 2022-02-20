@@ -1,1 +1,1 @@
-# project_4_calculator
+# Project 4 - A calculator.
