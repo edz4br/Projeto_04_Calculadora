@@ -1,1 +1,1 @@
-# Project 4 - A calculator in vanilla js.
+# Projeto número 4 da minha jornada na programação, uma calculadora em javascript.
